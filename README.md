@@ -47,5 +47,3 @@ Valor total do plano de saúde: R$ 150.00
 - Certifique-se de inserir as informações corretamente para evitar erros no cálculo do valor total do plano.
 - Este programa é apenas um exemplo simplificado e pode ser expandido com mais funcionalidades e validações conforme necessário.
 - Não se esqueça de ajustar os limites e validações de entrada conforme exigido pelo seu caso de uso específico.
-
---- Meu discord: zparker :)
